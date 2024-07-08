@@ -13,7 +13,9 @@ Pages
 Home Page: The main landing page that welcomes visitors with an overview of the website's purpose.
 
 Contact Page: A dedicated page where visitors can find contact information and reach out with inquiries or feedback.
+
 Technologies Used
+
 HTML
 
 CSS
