@@ -28,6 +28,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/your-username/reestar-website.git
+
 Navigate to the project directory:
 
 bash
